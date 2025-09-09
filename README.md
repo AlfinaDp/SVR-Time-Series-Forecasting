@@ -1,4 +1,4 @@
-# SVR-Time-Series-Forecasting.
+# SVR-Time-Series-Forecasting
 Forecasting nonlinear time series data using Support Vector Regression (SVR)
 ## Tools
 - Python (scikit-learn, pandas, matplotlib)
