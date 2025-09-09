@@ -20,8 +20,10 @@ Forecasting nonlinear time series data using Support Vector Regression (SVR)
 - Gold price forecasting: RMSE = 0.0165, MAE = 0.0119
 - The SVR model with RBF kernel achieved stable and accurate predictions without signs of overfitting.
 ## Visualization
-![Oil Forecasting](results/oil_forecasting.jpg)
-![Gold Forecasting](results/gold_forecasting.jpg)
+![Oil Forecasting](results/oil%20forecasting.jpg)  
+*Figure 1. SVR prediction vs actual oil prices*
+![Gold Forecasting](results/gold%20forecasting.jpg)  
+*Figure 2. SVR prediction vs actual gold prices*
 
 ## How to Run
 ```bash
