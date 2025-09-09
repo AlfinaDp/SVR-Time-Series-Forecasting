@@ -1,7 +1,6 @@
 # SVR-Time-Series-Forecasting
 Forecasting nonlinear time series data using Support Vector Regression (SVR)
 ## Tools
-- Python (scikit-learn, pandas, matplotlib)
 - R (e1071, caret, ggplot2)
 - Excel for additional preprocessing
 ## Steps
@@ -25,7 +24,8 @@ Forecasting nonlinear time series data using Support Vector Regression (SVR)
 ![Gold Forecasting](results/gold%20forecasting.jpg)  
 *Figure 2. SVR prediction vs actual gold prices*
 
-## How to Run
-```bash
-pip install -r requirements.txt
-python svr_forecast.py
+## Author
+**Alfina Damayanti Putri**  
+- LinkedIn: [linkedin.com/in/alfina](#)  
+- Email: your.email@example.com
+
