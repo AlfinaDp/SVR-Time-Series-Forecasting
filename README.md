@@ -13,8 +13,8 @@ Forecasting nonlinear time series data using Support Vector Regression (SVR)
 ## Dataset
 - Dummy seasonal additive time series data (various patterns and lengths).
 - Real-world datasets:
-  - Crude oil price (monthly) : 
-  - Gold price (monthly) :
+  - Crude oil price (monthly) : ![Oil](results/Oil.jpg)
+  - Gold price (monthly) : ![Gold](results/Gold.jpg)
 ## Results Summary
 - Oil price forecasting: RMSE = 0.0278, MAE = 0.0201
 - Gold price forecasting: RMSE = 0.0165, MAE = 0.0119
